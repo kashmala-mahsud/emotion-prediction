@@ -92,7 +92,7 @@ Have suggestions or want to contribute? Feel free to fork this repo, submit a PR
 
 ## 🙌 Let’s Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kashmala-mahsud/)
 - 🐍 [More ML Projects](https://github.com/kashmala-mahsud/ml-model-collection)
 
 ---
